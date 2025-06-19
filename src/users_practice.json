@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "59b99db4cfa9a34dcd7885b6",
+    "name": "Ned Stark",
+    "email": "sean_bean@gameofthron.es",
+    "password": "$2b$12$UREFwsRUoyF0CRqGNK0LzO0HM/jLhgUCNNIJ9RJAqMUQ74crlJ1Vu"
+  },
+  {
+    "_id": "59b99db4cfa9a34dcd7885b7",
+    "name": "Robert Baratheon",
+    "email": "mark_addy@gameofthron.es",
+    "password": "$2b$12$yGqxLG9LZpXA2xVDhuPnSOZd.VURVkz7wgOLY3pnO0s7u2S1ZO32y"
+  },
+  {
+    "_id": "59b99db5cfa9a34dcd7885b8",
+    "name": "Jaime Lannister",
+    "email": "nikolaj_coster-waldau@gameofthron.es",
+    "password": "$2b$12$6vz7wiwO.EI5Rilvq1zUc./9480gb1uPtXcahDxIadgyC3PS8XCUK"
+  },
+  {
+    "_id": "59b99db5cfa9a34dcd7885b9",
+    "name": "Catelyn Stark",
+    "email": "michelle_fairley@gameofthron.es",
+    "password": "$2b$12$fiaTH5Sh1zKNFX2i/FTEreWGjxoJxvmV7XL.qlfqCr8CwOxK.mZWS"
+  },
+  {
+    "_id": "59b99db6cfa9a34dcd7885ba",
+    "name": "Cersei Lannister",
+    "email": "lena_headey@gameofthron.es",
+    "password": "$2b$12$FExjgr7CLhNCa.oUsB9seub8mqcHzkJCFZ8heMc8CeIKOZfeTKP8m"
+  },
+  {
+    "_id": "59b99db6cfa9a34dcd7885bb",
+    "name": "Daenerys Targaryen",
+    "email": "emilia_clarke@gameofthron.es",
+    "password": "$2b$12$NzpbWHdMytemLtTfFKduHenr2NZ.rvxIKuYM4AWLTFaUShxbJ.G3q"
+  },
+  {
+    "_id": "59b99db6cfa9a34dcd7885bc",
+    "name": "Jorah Mormont",
+    "email": "iain_glen@gameofthron.es",
+    "password": "$2b$12$K8bKkwnpkrjsBPzASZxO/.yj7d9kvupiVtO6JA3Xl106AKXr3pXFK"
+  },
+  {
+    "_id": "59b99db7cfa9a34dcd7885bd",
+    "name": "Petyr Baelish",
+    "email": "aidan_gillen@gameofthron.es",
+    "password": "$2b$12$qM.YvmiekyYYY7p7phpK3OicbRCDkN7ESwYAnG/o9YnfHC0Mhkmbi"
+  },
+  {
+    "_id": "59b99db8cfa9a34dcd7885be",
+    "name": "Viserys Targaryen",
+    "email": "harry_lloyd@gameofthron.es",
+    "password": "$2b$12$cpwVmU4DyuQxgwpdrVJhaudzbKOXlHRbf.tpCuHjpAqonuoyvvEG6"
+  },
+  {
+    "_id": "59b99db9cfa9a34dcd7885bf",
+    "name": "Jon Snow",
+    "email": "kit_harington@gameofthron.es",
+    "password": "$2b$12$fDEu1Ru66tLWAVidMN.b0.929BlfnyqdGuhWMyzfOAf/ATYOyLoY6"
+  }
+]
