@@ -1,0 +1,98 @@
+[
+  {
+    "name": "users",
+    "type": "collection",
+    "options": {},
+    "info": {
+      "readOnly": false,
+      "uuid": "4bd98596-b6ec-49a3-8c72-7ba328fc832a"
+    },
+    "idIndex": {
+      "v": 2,
+      "key": {
+        "_id": 1
+      },
+      "name": "_id_"
+    }
+  },
+  {
+    "name": "theaters",
+    "type": "collection",
+    "options": {},
+    "info": {
+      "readOnly": false,
+      "uuid": "4e2e1796-4b8f-4bb3-abe9-4f8e15d99f0f"
+    },
+    "idIndex": {
+      "v": 2,
+      "key": {
+        "_id": 1
+      },
+      "name": "_id_"
+    }
+  },
+  {
+    "name": "comments",
+    "type": "collection",
+    "options": {},
+    "info": {
+      "readOnly": false,
+      "uuid": "4e450da9-8885-494a-8fcd-0791f3e9e76c"
+    },
+    "idIndex": {
+      "v": 2,
+      "key": {
+        "_id": 1
+      },
+      "name": "_id_"
+    }
+  },
+  {
+    "name": "movies",
+    "type": "collection",
+    "options": {},
+    "info": {
+      "readOnly": false,
+      "uuid": "d9aa5b83-1219-4736-abe8-db1ac5e1c3dc"
+    },
+    "idIndex": {
+      "v": 2,
+      "key": {
+        "_id": 1
+      },
+      "name": "_id_"
+    }
+  },
+  {
+    "name": "sessions",
+    "type": "collection",
+    "options": {},
+    "info": {
+      "readOnly": false,
+      "uuid": "f584dedd-b07f-483c-8ac8-24438e9dbf4b"
+    },
+    "idIndex": {
+      "v": 2,
+      "key": {
+        "_id": 1
+      },
+      "name": "_id_"
+    }
+  },
+  {
+    "name": "embedded_movies",
+    "type": "collection",
+    "options": {},
+    "info": {
+      "readOnly": false,
+      "uuid": "f7d723a8-1e44-44dd-b18f-0ee358f64799"
+    },
+    "idIndex": {
+      "v": 2,
+      "key": {
+        "_id": 1
+      },
+      "name": "_id_"
+    }
+  }
+]
