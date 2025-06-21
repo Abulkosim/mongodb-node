@@ -18,11 +18,13 @@ async function main() {
   const collections = await getCollection(client, "sample_mflix")
   await resultSaver(collections, "collections")
 
+  const usersPractice = await practice(client);
+  await resultSaver(usersPractice, "users_practice")
+
   const users = await getCollectionData(client, "sample_mflix", "users")
   await resultSaver(users, "users")
 
-  const usersPractice = await practice(client);
-  await resultSaver(usersPractice, "users_practice")
+
   await client.close();
 }
 main().catch(console.error);
@@ -52,6 +54,9 @@ async function getCollectionData(client: MongoClient, databaseName: string, coll
 
 async function practice(client: MongoClient) {
   const db = client.db('sample_mflix');
-  const users = await db.collection('users').find({}).limit(10).toArray();
+  const users = await db.collection('users').deleteOne({
+    name: "Jaime Lannister",
+  })
+  console.log(users.deletedCount)
   return users;
 }
